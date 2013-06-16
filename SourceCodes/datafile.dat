@@ -1,0 +1,142 @@
+<?php
+$infos = array (
+  20120815 => 
+  array (
+    1516 => 
+    array (
+      'Name' => 'Dickson Lao',
+      'Address' => '1720 Wells Branch Blvd',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76204',
+      'Phone' => '9409826178',
+      'Email' => 'dickson.lao@my.unt.edu',
+      'PurposeOfVisit' => 'Headache.',
+      'NewPatient' => 'No',
+      'Comments' => 'Get updated insurance info.',
+    ),
+  ),
+  20120813 => 
+  array (
+    '0809' => 
+    array (
+      'Name' => 'Stanton Lam',
+      'Address' => '211 East Oak Street',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76203',
+      'Phone' => '9403686419',
+      'Email' => '',
+      'PurposeOfVisit' => 'Sore throat.',
+      'NewPatient' => NULL,
+      'Comments' => 'No comments.',
+    ),
+  ),
+  20120816 => 
+  array (
+    1213 => 
+    array (
+      'Name' => 'Louis Paul',
+      'Address' => '445 Eagle Drive',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76201',
+      'Phone' => '9403342233',
+      'Email' => 'louis.paul@my.unt.edu',
+      'PurposeOfVisit' => 'Stomach.',
+      'NewPatient' => 'Yes',
+      'Comments' => 'No comments.',
+    ),
+    '0809' => 
+    array (
+      'Name' => 'Evie Wu',
+      'Address' => '2601 W Oak St',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76201',
+      'Phone' => '9403847600',
+      'Email' => 'evie.wu@my.unt.edu',
+      'PurposeOfVisit' => 'Stomach',
+      'NewPatient' => NULL,
+      'Comments' => 'No comments.',
+    ),
+  ),
+  20120814 => 
+  array (
+  ),
+  20120822 => 
+  array (
+    1112 => 
+    array (
+      'Name' => 'Anna Wood',
+      'Address' => '443 Eagle Street',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76202',
+      'Phone' => '9402938176',
+      'Email' => '',
+      'PurposeOfVisit' => 'High fever',
+      'NewPatient' => NULL,
+      'Comments' => 'Get updated email address.',
+    ),
+  ),
+  20120807 => 
+  array (
+  ),
+  20120817 => 
+  array (
+    1617 => 
+    array (
+      'Name' => 'Katy Kinard',
+      'Address' => '1030 Dallas Drive',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76201',
+      'Phone' => '9403832570',
+      'Email' => '',
+      'PurposeOfVisit' => 'Headache.',
+      'NewPatient' => NULL,
+      'Comments' => 'Remind her for this coming appointment.',
+    ),
+  ),
+  20120823 => 
+  array (
+    '0910' => 
+    array (
+      'Name' => 'Shawn Piggy',
+      'Address' => '462 Piggyland',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76201',
+      'Phone' => '9402921167',
+      'Email' => '',
+      'PurposeOfVisit' => 'High fever',
+      'NewPatient' => NULL,
+      'Comments' => 'No comments.',
+    ),
+  ),
+  20120808 => 
+  array (
+    '0910' => 
+    array (
+      'Name' => 'Anna Yu',
+      'Address' => '1780 Wells Branch Blvd',
+      'City/State' => 'Austin, TX',
+      'ZipCode' => '78751',
+      'Phone' => '5129299387',
+      'Email' => 'anna.yu@my.unt.edu',
+      'PurposeOfVisit' => 'Headache.',
+      'NewPatient' => 'Yes',
+      'Comments' => 'No comments.',
+    ),
+  ),
+  20120806 => 
+  array (
+    1415 => 
+    array (
+      'Name' => 'Bob Cathy',
+      'Address' => '1200 Cleveland Street',
+      'City/State' => 'Denton, TX',
+      'ZipCode' => '76201',
+      'Phone' => '9403239010',
+      'Email' => '',
+      'PurposeOfVisit' => 'Sore throat',
+      'NewPatient' => NULL,
+      'Comments' => '\\\\\\"No comments.\\\\\\"',
+    ),
+  ),
+);
+?>
